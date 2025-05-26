@@ -224,7 +224,7 @@ export const CarrinhoContainer = styled.div`
     .item {
       flex-direction: column;
       align-items: flex-start;
-      width: 200px;
+      width: 250px;
 
       img {
         width: 100%;
