@@ -35,28 +35,28 @@ const hamburguersDisponivel = [
   },
 
     {
-    id: 7,
+    id: 5,
     nome:"X-Chicken",
     imagem:"/dev-chicken.jpg",
     preco: 29.99,
     descricao:"Pão, hambúrguer empanado de frango,  alface e tomate"
   },
   {
-      id: 8,
+      id: 6,
       nome: "Duplo Burger",
       imagem: "/dev-pleno.jpg",
       preco: 27.50,
       descricao: "Dois hambúrgueres suculentos com queijo duplo e molho especial."
     },
      {
-      id: 16,
+      id: 7,
       nome:"Refrigerante",
       imagem:"/refri-1.png",
       preco: 6.99,
       descricao:"refrigerante coca cola original lata 350ml geladinha"
     },
     {
-      id: 17,
+      id: 8,
       nome:"Refrigerante",
       imagem:"/refri-2.png",
       preco: 6.99,
