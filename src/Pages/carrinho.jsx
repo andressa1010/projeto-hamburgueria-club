@@ -76,7 +76,7 @@ const Carrinho = ({ carrinho, setCarrinho }) => {
         <>
           <h3>Total: R$ {total.toFixed(2)}</h3>
           <button className="botao-finalizar" onClick={finalizarCompra}>
-            Finalizar no WhatsApp{" "}
+            Finalizar compra no WhatsApp{" "}
             <svg
               className="icone-whatsapp"
               xmlns="http://www.w3.org/2000/svg"

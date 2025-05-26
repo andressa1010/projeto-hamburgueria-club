@@ -246,10 +246,10 @@ export const CarrinhoContainer = styled.div`
 export const DivButton = styled.div`
   display: flex;
   justify-content: end;
+  width: 100%;
 
-  @media (max-width: 432px) {
-    display: flex;
-    justify-content: left;
+  @media (max-width: 500px) {
+    justify-content: flex-start;
   }
 `;
 
@@ -269,9 +269,9 @@ export const BotaoCarrinho = styled.button`
 
   /* Responsivo para celular */
   @media (max-width: 500px) {
-    top: 15px;
-    right: 15px;
-      right: auto; /* Remove o right */
+    top: 20px;
+    right: 20px;
+    right: auto; /* Remove o right */
 
     img {
       width: 40px;
