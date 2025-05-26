@@ -86,24 +86,24 @@ const hamburguersDisponivel = [
     },
     {
       id: 12,
-      nome: "Torta de Limão",
-      imagem: "/cake-caramelo.jpeg",
+      nome: "Bolo Maracujá",
+      imagem: "/bolo12.png",
       preco: 9.50,
-      descricao: "Torta gelada com base crocante e mousse de limão com calda derretida no açucar super cremoso , biscoitos tipo maisena"
+      descricao: "Bolo recheado sabor maracujá"
     },
       {
       id: 13,
-      nome: "Torta Chocolate",
-      imagem: "/cake-chocolate.jpg",
+      nome: "Bolo Chocolate",
+      imagem: "/bolo16.png",
       preco: 9.50,
-      descricao: "Torta gelada com base crocante e mousse de chocolate."
+      descricao: "Bolo recheado chocolate e ninho"
     },
      {
       id: 14,
-      nome: "Torta Morango",
-      imagem: "/cake-morango.jpg",
+      nome: "Bolo Chocolate",
+      imagem: "/bolo15.png",
       preco: 9.50,
-      descricao: "Torta gelada com base crocante e mousse de morango feita com biscoitos tipo maisena , leite condensado"
+      descricao: "bolo recheado sabor chocolate"
     },
     {
       id: 15,
