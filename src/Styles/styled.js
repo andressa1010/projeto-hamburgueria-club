@@ -271,9 +271,10 @@ export const BotaoCarrinho = styled.button`
   @media (max-width: 500px) {
     top: 15px;
     right: 15px;
+      right: auto; /* Remove o right */
 
     img {
-      width: 35px;
+      width: 40px;
     }
   }
 `;
