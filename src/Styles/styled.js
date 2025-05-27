@@ -295,3 +295,53 @@ export const TituloContainer = styled.div`
     font-style: normal;
   }
 `;
+
+
+export const Whatsapp = styled.div`
+   display: flex;
+   justify-content: end;
+
+   img{
+    height: 60px;
+   }
+
+`
+
+export const Footer = styled.footer`
+  background-color: #9c0152;
+  color: #fff;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 20px;
+  margin-top: 50px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+
+  div {
+    display: flex;
+    gap: 16px;
+  }
+
+  a {
+    color: #fff;
+    transition: transform 0.3s;
+
+    &:hover {
+      transform: scale(1.2);
+    }
+
+    svg {
+      width: 24px;
+      height: 24px;
+      fill: white;
+    }
+  }
+
+  @media (max-width: 500px) {
+    font-size: 12px;
+    gap: 6px;
+  }
+`;
