@@ -116,9 +116,9 @@ const hamburguersDisponivel = [
     {
       id: 16,
       nome: " Sorvete",
-      imagem: "/casquinha.jpg",
+      imagem: "/casquinha.png",
       preco: 6.00,
-      descricao: "casquinha com uma bola de sorvete de creme e calda de chocolate."
+      descricao: "casquinha  de creme e calda de chocolate."
     },
    
 ];
