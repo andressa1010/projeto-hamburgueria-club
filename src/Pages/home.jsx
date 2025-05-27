@@ -42,13 +42,13 @@ const hamburguersDisponivel = [
     preco: 29.99,
     descricao:"Pão, hambúrguer empanado de frango,  alface e tomate"
   },
-  {
-      id: 6,
-      nome: "Duplo Burger",
-      imagem: "/dev-pleno.jpg",
-      preco: 27.50,
-      descricao: "Dois hambúrgueres suculentos com queijo duplo e molho especial."
-    },
+ {
+    id: 6,
+    nome:"X-Fit",
+    imagem:"/dev-fit.jpg",
+    preco: 29.99,
+    descricao:"Pão, hambúrguer empanado de frango,  alface e tomate"
+  },
      {
       id: 7,
       nome:"Refrigerante",
@@ -73,8 +73,8 @@ const hamburguersDisponivel = [
     },
      {
       id: 10,
-      nome: "Cheddar Melt",
-      imagem: "/dev-cheddar.jpg",
+      nome: "Cheddar Duplo",
+      imagem: "/dev-senior.jpg",
       preco: 23.90,
       descricao: "Pão australiano, hambúrguer bovino e muito cheddar cremoso."
     },
