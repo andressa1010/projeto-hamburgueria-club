@@ -25,13 +25,13 @@ const hamburguersDisponivel = [
     nome: "X-tudo",
     imagem: "/dev-senior.jpg",
     preco: 45.99,
-     descricao:"Pão, hambúrguer, queijo cheddar, alface e tomate"},
+      descricao: "Pão, mussarela , hambúrguer bovino, alface e tomate"},
   {
     id: 4,
     nome:"X-Bacon",
     imagem:"/dev-bacon.jpg",
     preco: 29.99,
-    descricao:"Pão, hambúrguer, queijo cheddar, alface e tomate"
+     descricao: "Pão, mussarela , hambúrguer bovino, alface e tomate"
   },
 
     {
@@ -179,11 +179,6 @@ const Home = ({ carrinho, setCarrinho }) => {
        </BotaoCarrinho>
       </DivButton>
 
-      <Whatsapp>
-          <a href="">
-            <img src={imgWhatsapp}/>
-          </a>
-      </Whatsapp>
 
 <Footer>
   <p>© 2025  Desenvolvido por Andressa Nunes  Todos os direitos reservados.</p>
