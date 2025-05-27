@@ -25,8 +25,7 @@ const hamburguersDisponivel = [
     nome: "X-tudo",
     imagem: "/dev-senior.jpg",
     preco: 45.99,
-    descricao: "Pão, mussarela , hambúrguer bovino, bacon e cheddar"
-  },
+     descricao:"Pão, hambúrguer, queijo cheddar, alface e tomate"},
   {
     id: 4,
     nome:"X-Bacon",
