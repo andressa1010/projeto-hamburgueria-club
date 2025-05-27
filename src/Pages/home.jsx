@@ -32,7 +32,7 @@ const hamburguersDisponivel = [
     nome:"X-Bacon",
     imagem:"/dev-bacon.jpg",
     preco: 29.99,
-    descricao:"Pão, hambúrguer bovino, queijo cheddar, alface e tomate"
+    descricao:"Pão, hambúrguer, queijo cheddar, alface e tomate"
   },
 
     {
@@ -90,7 +90,7 @@ const hamburguersDisponivel = [
       nome: "Bolo Ninho",
       imagem: "/bolo13.png",
       preco: 13.50,
-      descricao: "Bolo recheado ninho com doce de leite"
+      descricao: "Bolo ninho com doce de leite"
     },
     {
       id: 13,
