@@ -60,7 +60,7 @@ const hamburguersDisponivel = [
       nome:"Refrigerante",
       imagem:"/refri-2.png",
       preco: 6.99,
-      descricao:"refrigerante guaraná antarctica lata 350ml geladinha"
+      descricao:"refrigerante guaraná original lata 350ml geladinha"
     },
 
      {
