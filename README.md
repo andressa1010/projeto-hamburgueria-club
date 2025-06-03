@@ -1,12 +1,29 @@
-# React + Vite
+🍔 Hamburgueria Online
+Projeto desenvolvido como uma simulação de uma hamburgueria online, onde o usuário pode visualizar os produtos, adicionar ao carrinho e finalizar o pedido diretamente pelo WhatsApp.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Tecnologias utilizadas
+⚛️ React + Vite
 
-Currently, two official plugins are available:
+🔗 React Router DOM
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💅 Styled-components
 
-## Expanding the ESLint configuration
+📦 Manipulação de dados através de array de produtos
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛒 Carrinho de compras
+
+📲 Integração com WhatsApp para finalizar pedidos
+
+✨ Funcionalidades
+Listagem de hambúrgueres disponíveis
+
+Adicionar e remover itens do carrinho
+
+Visualização do resumo do pedido
+
+Finalização da compra via link direto para WhatsApp com os dados do pedido
+
+📷 Layout
+![Simplistic Laptop iphone tablet mockup instagram post (1)](https://github.com/user-attachments/assets/f9070850-407c-4989-853e-4a2455c8585a)
+
+Desenvolvido por Andressa Nunes 
