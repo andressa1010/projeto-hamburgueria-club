@@ -27,3 +27,8 @@ Finalização da compra via link direto para WhatsApp com os dados do pedido
 ![Simplistic Laptop iphone tablet mockup instagram post (1)](https://github.com/user-attachments/assets/f9070850-407c-4989-853e-4a2455c8585a)
 
 Desenvolvido por Andressa Nunes 
+
+🤝 Contato
+Se quiser me contratar, pode me encontrar no LinkedIn ou pelo WhatsApp diretamente no projeto.
+
+link: https://hamburgueriaonline.netlify.app/
